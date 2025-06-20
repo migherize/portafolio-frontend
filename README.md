@@ -105,7 +105,7 @@ docker-compose up --build
 3. El frontend estará disponible en:
 
 ```
-http://localhost:5173/
+http://localhost:3000/
 ```
 
 4. Para detenerlo:
